@@ -1,0 +1,16 @@
+// JavaScript //
+  ===========
+// function retrieve(){ //retrieves items in the localStorage
+//     console.log("retrieve");
+//     const key = document.getElementById('retrieveKey').value;
+//     let records = window.localStorage.getItem(products);
+//     const div = document.createElement("div");
+//     const infor = document.createTextNode(records);
+//     div.appendChild(infor);
+//     let element = document.getElementById("ayo");
+//     element.appendChild(div);
+// };
+// retrieve();
+//===================================================================
+// Html //
+  ======
